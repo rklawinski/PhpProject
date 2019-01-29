@@ -9,9 +9,10 @@
 <body>
     <div class="container">
     		<div class="row">
-    			<h3>PHP CRUD Grid</h3>
-			<br>
+						<br>
 <a href="https://github.com/rklawinski"> Jrklawin Github Home Page</a>
+    			<h3>PHP CRUD Grid</h3>
+
     		</div>
 			<div class="row">
 				<p>
